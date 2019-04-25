@@ -6,4 +6,5 @@
 | Ignore special characters | "H@xz0r3z" | 9 |
 | input stops at a space and only returns the first word | "Apple Juice" | 9 |
 | Input treats a hyphen as a space | "Apple Juice" | 17 |
-| It assigns a value of 10 to each letter of Q, | | | 
+| It assigns a value of 10 to each letter of Q, | | |
+ 
