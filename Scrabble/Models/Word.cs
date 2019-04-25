@@ -14,6 +14,11 @@ namespace Scrabble.Models
       _word = word;
     }
 
+    public string GetWord()
+    {
+      return _word;
+    }
+
     public int ValueToMatch(string word)
     {
       char [] wordArray = word.ToCharArray();
